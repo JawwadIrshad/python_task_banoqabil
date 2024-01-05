@@ -1,0 +1,6 @@
+print("Enter The first number")
+a=input()
+print("Enter the second number")
+b=input()
+c=float((float(a)+float(b))/2)
+print("Average of a number:",round(A,2))

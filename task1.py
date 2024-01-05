@@ -1,0 +1,6 @@
+print("Enter The breath")
+b=input()
+print("Enter the height")
+h=input()
+A=int((int(b)*int(h))/2)
+print("Area of a Triangle :",A)
